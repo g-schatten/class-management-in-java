@@ -25,7 +25,7 @@ course name:Course B, section:1, timing:A, teacher name:T1
 course name:Course C, section:1, timing:B, teacher name:T2
 course name:Course C, section:2, timing:C, teacher name:T1
 
-SAMPLE INPUT AND OUTPUT FOR TEACHER:
+SAMPLE INPUT AND OUTPUT FOR TEACHER-
 
 who are you?
 1.Student 2.Teacher
@@ -45,7 +45,7 @@ press 0 to go back
 >0
 1.course a 2.course b 3.course c 4.back
 
-SAMPLE INPUT AND OUTPUT FOR STUDENT:
+SAMPLE INPUT AND OUTPUT FOR STUDENT-
 
 who are you?
 1.student 2.teacher
